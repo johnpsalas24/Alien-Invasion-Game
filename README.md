@@ -2,8 +2,6 @@
 Created with Python using pygame library
 
 
-Certainly! Here's an example of a README file that you can include in your repository to explain how to play the game and run it on your local machine:
-
 Alien Invasion Game
 Welcome to Alien Invasion, a simple game where you control a spaceship and dodge incoming alien invaders!
 
